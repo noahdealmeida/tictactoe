@@ -6,3 +6,17 @@ body {
 h2 {
     color:maroon
 }
+h3 {
+    color:green
+}
+
+#startDate {
+    color:black;
+    font-size:small
+}
+
+td {
+    text-align: center;
+    cursor: hand
+
+}
